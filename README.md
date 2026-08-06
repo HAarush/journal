@@ -5,4 +5,6 @@ Aug, 5th
   Started using hackerrank
   Learnt about keybr.com to learn typing
   Saw YouTube videos about what is competetive programming
-  
+Aug, 6th
+  Learnt about different clubs in CBIT
+  Learnt till loops in C++
