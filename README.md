@@ -8,3 +8,7 @@ Aug, 5th
 Aug, 6th
   Learnt about different clubs in CBIT
   Learnt till loops in C++
+Aug, 7th
+  I was given section 3
+  I did a few problems from Project Euler
+  Participated in Table Tennis Tournament in Brigade Citadel
